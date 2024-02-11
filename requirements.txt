@@ -1,0 +1,8 @@
+streamlit
+pandas
+seaborn
+plotly
+matplotlib
+statsmodels
+transformers
+torch
